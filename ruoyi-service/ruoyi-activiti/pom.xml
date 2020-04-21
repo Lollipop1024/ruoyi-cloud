@@ -10,7 +10,7 @@
 	<artifactId>ruoyi-activiti</artifactId>
 
 	<properties>
-		<activiti.version>5.22.0</activiti.version>
+		<activiti.version>5.23.0</activiti.version>
 	</properties>
 	<dependencies>
 
