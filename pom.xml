@@ -38,7 +38,7 @@
         <fastjson.version>1.2.68</fastjson.version>
         <lombok.version>1.18.4</lombok.version>
         <hutool.version>4.1.19</hutool.version>
-        <common-pool.version>2.6.2</common-pool.version>
+        <common-pool.version>2.10.0</common-pool.version>
         <swagger.version>2.9.2</swagger.version>
         <swagger-ui.version>1.9.5</swagger-ui.version>
         <guava.version>26.0-jre</guava.version>
